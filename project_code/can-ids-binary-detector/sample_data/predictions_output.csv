@@ -1,0 +1,6 @@
+dlc,can_id_int,byte_0_int,byte_1_int,byte_2_int,byte_3_int,byte_4_int,byte_5_int,byte_6_int,byte_7_int,inter_arrival,payload_sum,nonzero_bytes,payload_unique_values,predicted_probability,predicted_class
+8,123,10,20,0,0,5,1,0,255,0.002,291,5,6,0.6979281,0
+8,250,0,0,0,0,0,0,0,0,0.01,0,0,1,0.9931097,1
+8,512,34,12,9,100,2,3,4,5,0.001,169,8,8,1.940515e-05,0
+8,700,255,255,255,255,255,255,255,255,0.0005,2040,8,1,0.9999999,1
+4,321,1,2,3,4,0,0,0,0,0.02,10,4,4,5.3242443e-17,0
