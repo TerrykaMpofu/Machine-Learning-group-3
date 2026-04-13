@@ -1,0 +1,13 @@
+{
+    "best_threshold": 0.9000000000000002,
+    "selection_metric": "balanced_accuracy_then_f1",
+    "best_validation_metrics": {
+        "threshold": 0.9000000000000002,
+        "accuracy": 0.9800683587520769,
+        "precision": 0.9835954261988975,
+        "recall": 0.9954816526127153,
+        "f1_score": 0.9895028453997787,
+        "balanced_accuracy": 0.8586421948764378,
+        "specificity": 0.7218027371401604
+    }
+}

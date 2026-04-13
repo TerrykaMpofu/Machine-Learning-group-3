@@ -1,0 +1,49 @@
+{
+    "keras_metrics": {
+        "loss": 0.19557005167007446,
+        "compile_metrics": 0.859142005443573
+    },
+    "detailed_metrics": {
+        "accuracy": 0.8591420148897846,
+        "precision": 0.992275155335032,
+        "recall": 0.857410474925576,
+        "f1_score": 0.9199261736955695,
+        "roc_auc": 0.9623570309078411
+    },
+    "class_weight": {
+        "0": 8.877979632141242,
+        "1": 0.5298401298376163
+    },
+    "feature_columns": [
+        "dlc",
+        "can_id_int",
+        "byte_0_int",
+        "byte_1_int",
+        "byte_2_int",
+        "byte_3_int",
+        "byte_4_int",
+        "byte_5_int",
+        "byte_6_int",
+        "byte_7_int",
+        "inter_arrival",
+        "payload_sum",
+        "nonzero_bytes",
+        "payload_unique_values"
+    ],
+    "dropped_columns": [
+        "binary_target",
+        "binary_label",
+        "class_label",
+        "source_file",
+        "direction",
+        "timestamp"
+    ],
+    "train_shape": [
+        14924594,
+        14
+    ],
+    "val_shape": [
+        2633752,
+        14
+    ]
+}
